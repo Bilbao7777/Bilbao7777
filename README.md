@@ -1,8 +1,8 @@
 - 👋 Hi, I’m  Rajeep
 - 👀
-- 🌱 I’m currently CS student
+- 🌱  CS Graduate
 - 💞️ 
-- 📫 Contact via email or discord 
+- 📫 Contact via email 
 
 <!---
 Bilbao7777/Bilbao7777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
